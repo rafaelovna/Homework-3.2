@@ -6,7 +6,7 @@ public class Main {
             System.out.println("Если возраст человека равен "+human+", то ему нужно ходить в детский сад!");
         }else if (human >=7 && human <=18){
             System.out.println("Если возраст человека равен "+human+", то ему нужно ходить в школу!");
-        }else if (human > 18 && human < 24){
+        }else if (human > 18 && human <= 24){
             System.out.println("Если возраст человека равен "+human+", то ему нужно ходить в университет!");
         }else if (human > 24){
             System.out.println("Если возраст человека равен "+human+", то ему нужно ходить на работу!");
