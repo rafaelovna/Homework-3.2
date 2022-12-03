@@ -23,7 +23,7 @@ public class Main {
         }
 
         System.out.println("Задание 3");
-        int one = 6;
+        int one = 7;
         int two = 13;
         int three = 3;
         if (one >= two && one >= three){
